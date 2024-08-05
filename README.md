@@ -68,12 +68,3 @@ Delete a ToDo: Click the "x" icon next to a ToDo item to remove it from the list
 ```sh
 https://github.com/supekar-aniket
 
-
-
-
-
-
-
-
-
-
