@@ -25,12 +25,12 @@ A simple ToDo List application built with React. This app allows users to add, d
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/supekar-aniket/ToDo-List-App.git
+   git clone https://github.com/supekar-aniket/todo-dist-app.git
 
 2. Navigate to the project directory:
    
    ```sh
-   cd ToDo-List-App
+   cd todo-list-app
 
 3. Install the dependencies:
 
